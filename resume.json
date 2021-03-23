@@ -1,4 +1,17 @@
 {   
+    "personal_information":[
+        {
+            "first_name":"Ali Kemal",
+            "last_name":"Tanriverdi",
+            "email":"atanriv1@binghamton.edu",
+            "phone":"+1 (929) 312 8349",
+            "location":"Binghamton, NY",
+            "links": [
+                {"github":"https://github.com/alikemaltanriverdi"},
+                {"linkedin":"https://www.linkedin.com/in/alikemaltanriverdi"}
+            ]
+        }
+    ],
     "education":[
         {
             "institution":"Binghamton University",
@@ -87,9 +100,15 @@
                 ]
             }
         ],
-    "projects":[
-        {}
-
-    ]
+        "projects":[
+            {
+                "name":"",
+                "description":""
+            },
+            {
+                "name":"",
+                "description":""
+            }
+        ]
 
 }
