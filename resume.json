@@ -1,10 +1,23 @@
 {   
+    "education":[
+        {
+            "institution":"Binghamton University",
+            "degree":"Computer Science",
+            "major":"Masters of Science",
+            "graduation_date":"Expected May 2024"
+        },
+        {
+            "institution":"Binghamton University",
+            "degree":"Bachelors of Science",
+            "major":"Information Systems",
+            "graduation_date":"December 2018"
+        }
+    ],
     "experiences": 
         [
             {   "company":"Binghamton University",
                 "title":"Software Developer",
                 "dates":"September 2019 - Present",
-                "location":"Binghamton, NY",
                 "duties":[
                     "I support update and develop several applications and workflows for organizations Binghamton University including ITS, EH&S, UCTD, UPD, PF, Libraries, etc. as a full stack software developer.",
                     "I participated in the implementation of BComply, which is a replacement product of VComply LMS for Binghamton University’s Compliance Training. We as a team has developed a new web application that belongs to Binghamton University using Laravel, Graphene Forms, Graphene DataGrids and other additional technologies. I designed and implemented bulk assignments that lets admins to create assignment rules, such as observing user attributes or group attributes to make an assignment on any update or assign the training at a given date by the given attributes. I also implemented reminders to notify users that their assigned trainings are almost due or past the due date, which uses a scheduled Cron Job. Additionally, I implemented user permissions, security access rules and routes. I also manage the script that synchronize users of BComply nightly with Binghamton University’s users. I also assisted creating admin dashboard, end user dashboard, and documentation of admin portal usage of the web application",
@@ -22,7 +35,6 @@
                 "company":"Kopernik Observatory and Science Center",
                 "title":"Software Developer Intern",
                 "dates":"July 2018 - August 2018",
-                "location":"Vestal, NY",
                 "duties":["Involved in debugging of a mobile app in both IOS and Android platform by using React-Native and JavaScript.",
                     "Debugged the code that uses the Google calendar API and Google Maps API for IOS and Android within the application, and fixed the application running issues.",
                     "Fixed the bugs of the firebase push notifications",
@@ -33,7 +45,6 @@
                 "company":"ValuAg LLC",
                 "title":"Sofware Developer Intern",
                 "dates":"June 2018 - July 2018",
-                "location":"Binghamton, NY",
                 "duties":[
                     "Tested the given flow in the website using the Google Chrome Developer Tools’ debugger and provided feedbacks to the web developers",
                     "Introduced with EDI billing format during my internship",
@@ -45,7 +56,6 @@
                 "company":"Custom Systems Integration",
                 "title":"Software Developer Intern",
                 "dates":"September 2017 - May 2018",
-                "location":"Endicott, NY",
                 "duties":[
                     "Involved in implementation of a resume analysis application by using Python, Google Vision API and MySQL",
                     "Used Google Vision API to convert images from JPG, PNG to txt format",
@@ -60,7 +70,6 @@
                 "company":"Vodafone",
                 "title":"IT Intern",
                 "dates":"November 2016 - May 2017",
-                "location":"Istanbul, Turkey",
                 "duties":[
                     "Contributed to Mercury Project which was one of the biggest projects in the Europe that was related to physically migrating a company database to another location by consistently keeping records of the Firewall Requests those were related to relocation of an application or a hardware.",
                     "Kept records of the user access forms, Firewall access forms and DNS access forms and tracked the process.",
