@@ -6,10 +6,7 @@
             "email":"atanriv1@binghamton.edu",
             "phone":"+1 (929) 312 8349",
             "location":"Binghamton, NY",
-            "links": [
-                {"github":"https://github.com/alikemaltanriverdi"},
-                {"linkedin":"https://www.linkedin.com/in/alikemaltanriverdi"}
-            ]
+            "links": {"github":"https://github.com/alikemaltanriverdi", "linkedin":"https://www.linkedin.com/in/alikemaltanriverdi"}
         }
     ],
     "education":[
