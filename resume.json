@@ -15,7 +15,8 @@
     ],
     "experiences": 
         [
-            {   "company":"Binghamton University",
+            {   "id":"binghamton-university",
+                "company":"Binghamton University",
                 "title":"Software Developer",
                 "dates":"September 2019 - Present",
                 "location":"Binghamton, NY",
@@ -33,6 +34,7 @@
                 ]
             },
             {
+                "id":"kopernik-observatory",
                 "company":"Kopernik Observatory and Science Center",
                 "title":"Software Developer Intern",
                 "dates":"July 2018 - August 2018",
@@ -44,6 +46,7 @@
                 ]
             },
             {
+                "id":"valuag",
                 "company":"ValuAg LLC",
                 "title":"Sofware Developer Intern",
                 "dates":"June 2018 - July 2018",
@@ -56,6 +59,7 @@
                 ]
             },
             {   
+                "id":"csi",
                 "company":"Custom Systems Integration",
                 "title":"Software Developer Intern",
                 "dates":"September 2017 - May 2018",
@@ -71,6 +75,7 @@
                 ]
             },
             {
+                "id":"vodafone",
                 "company":"Vodafone",
                 "title":"IT Intern",
                 "dates":"November 2016 - May 2017",
