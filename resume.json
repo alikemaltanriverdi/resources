@@ -31,8 +31,8 @@
                 "dates":"September 2019 - Present",
                 "location":"Binghamton, NY",
                 "duties":[
-                    "I support update and develop several applications and workflows for organizations Binghamton University including ITS, EH&S, UCTD, UPD, PF, Libraries, etc. as a full stack software developer.",
-                    "I participated in the implementation of BComply, which is a replacement product of VComply LMS for Binghamton University’s Compliance Training. We as a team has developed a new web application that belongs to Binghamton University using Laravel, Graphene Forms, Graphene DataGrids and other additional technologies. I designed and implemented bulk assignments that lets admins to create assignment rules, such as observing user attributes or group attributes to make an assignment on any update or assign the training at a given date by the given attributes. I also implemented reminders to notify users that their assigned trainings are almost due or past the due date, which uses a scheduled Cron Job. Additionally, I implemented user permissions, security access rules and routes. I also manage the script that synchronize users of BComply nightly with Binghamton University’s users. I also assisted creating admin dashboard, end user dashboard, and documentation of admin portal usage of the web application",
+                    "I support, update and develop several applications and workflows for organizations Binghamton University including ITS, EH&S, UCTD, UPD, PF, Libraries, etc. as a full stack software developer.",
+                    "I participated in the implementation of BComply, which is a replacement product of VComply LMS for Binghamton University’s Compliance Training. We as a team developed a new web application that belongs to Binghamton University using Laravel, Graphene Forms, Graphene DataGrids and other additional technologies. I designed and implemented bulk assignments that lets admins to create assignment rules, such as observing user attributes or group attributes to make an assignment on any updated column in the database or assign the training at a given date by the given attributes. I also implemented reminders to notify users that their assigned trainings are almost due or past the due date, which uses a scheduled Cron Job. Additionally, I implemented user permissions, security access rules and routes. I also manage the script that synchronize users of BComply nightly with Binghamton University’s users. I also assisted creating admin dashboard, end user dashboard, and documentation of admin portal usage of the web application",
                     "I was a member of a search committee that was gathered to search for an appropriate candidate for a position at ITS in Binghamton University. Our search was successful, and a candidate was hired.",
                     "I implemented several Microapps in Graphene (myBinghamton) for students, staff, faculty and several departments in Binghamton University using Ractive, JavaScript, and Mustache. I have also implemented several APIs in GrapheneAPIGateway that feed the microapps developed by me or other lead developers. I currently support the microapps developed by me and make the changes clients request.",
                     "I implemented several Graphene Workflows in Graphene (myBinghamton) for students, staff, faculty and several departments in Binghamton University using Ractive, JavaScript, and Mustache. I have also implemented several APIs in GrapheneAPIGateway those feed the workflows developed by me or other lead developers. These workflows have the following capabilities: document uploads, logics, states, methods and etc. I currently support the workflows developed by me and make the changes clients request.",
@@ -99,12 +99,14 @@
         ],
         "projects":[
             {
-                "name":"",
-                "description":""
+                "name":"Secrets",
+                "link":"",
+                "description":"Created an authenticated web application which allows users to register, login, log out, make a secret entry, see other secrets posted by other users by implementing corresponding routes by using Node.js, JavaScript, express, and MongoDB. Established active user session, authentication and authorization to increase the security and efficiency."
             },
             {
-                "name":"",
-                "description":""
+                "name":"Wiki API",
+                "link":"",
+                "description":"Designed and built a REST API that can handle post, put, get, patch, delete requests by using local MongoDB database, Express JavaScript. Server starts to listen from the port 3000 in a stateless form, and when a related request is made, API finds the related article in the database by the title given and applies the desired request and returns a success message as a response or a JSON formatted text as a response."
             }
         ]
 
